@@ -1,0 +1,4 @@
+(test
+ (name runner)
+ (deps (source_tree ../examples))
+ (libraries micro-scheme))
